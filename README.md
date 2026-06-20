@@ -1,4 +1,4 @@
-# AI-Based-crop-disease-detection-system
+
 # AI-Based Crop Disease Detection System
 
 Built during **Smart India Hackathon (SIH) 2024** — Agriculture-Tech Track.
